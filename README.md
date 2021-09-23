@@ -3,7 +3,7 @@
 
 **When you lounch the app you see this:**
 
-<img src="https://user-images.githubusercontent.com/83066475/133673296-c769035c-ac44-4477-928a-898dd2215b35.jpeg", width=200, height=400>
+<img src="https://user-images.githubusercontent.com/83066475/133673296-c769035c-ac44-4477-928a-898dd2215b35.jpeg" width=200, height=400>
 
 
 
